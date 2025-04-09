@@ -1,19 +1,12 @@
-# 🎈 Blank app template
+# Mineral Classification Project
 
-A simple Streamlit app template for you to modify!
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/Mineral-Classification)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mineral-classification-94-accuracy.streamlit.app/)
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+## Features
+- 7-class mineral identification
+- EfficientNetB1-based model (94.4% accuracy)
+- Streamlit web interface
+- Colab-compatible training notebook
 
-### How to run it on your own machine
-
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+## Installation
